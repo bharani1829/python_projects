@@ -1,6 +1,6 @@
-#fist take choice
-if user wants roll dice
-else exit
+# #fist take choice
+# if user wants roll dice
+# else exit
 
 
 import random
