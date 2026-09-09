@@ -6,7 +6,7 @@
 import random
 
 while True:
-    choice = input("Enter Your Choice (y Or n) : ").lower()
+    choice = input("Do you want to roll the die (y Or n) : ").lower()
     if choice == "y":
         die = random.randint(1,6)
         print(f"({die})")
